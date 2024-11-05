@@ -1,16 +1,16 @@
 ## 📮 매일메일 - 기술 면접 질문 구독 서비스
 
-### 🔍 어떤 서비스인가요?
+### 어떤 서비스인가요?
 
 매일 오전 7시에 무작위의 기술 질문과 답변을 보내 드리는 서비스입니다.  
 수익 창출 목적 전혀 없이, 세상에 쓰이는 서비스를 만들고자 매일메일을 만들게 됐습니다.
 
 이메일 등록만 해놓으시고 하루에 5분만 투자해보세요!
 
----------
+-----------
 
-* 📮 [매일메일 바로가기](https://www.maeil-mail.kr?utm_source=github_main)    
-* 🧑🏻‍💻 [팀 소개 바로가기](https://sable-jitterbug-221.notion.site/12ef81eba36580b98e33e14e22dcb24d)
+[매일메일 바로가기](https://www.maeil-mail.kr?utm_source=github_main)    
+[팀 소개 바로가기](https://sable-jitterbug-221.notion.site/12ef81eba36580b98e33e14e22dcb24d)
 
 혹시, 도움이 되었다면 Star를 눌러주세요. ⭐️  
 작은 관심이 서비스 운영에 큰 도움이 됩니다! 감사합니다. :)
