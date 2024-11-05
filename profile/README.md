@@ -28,7 +28,8 @@
 이메일 등록만 해놓으시고 하루에 5분만 투자해보세요!
 
 --------------
-[매일메일 바로가기](https://www.maeil-mail.kr?utm_source=github_main)
+[📮 매일메일 바로가기](https://www.maeil-mail.kr?utm_source=github_main)  
+[🧑🏻‍💻 팀 소개 바로가기](https://sable-jitterbug-221.notion.site/12ef81eba36580b98e33e14e22dcb24d)
 
 혹시, 도움이 되었다면 Star를 눌러주세요 ⭐️  
 작은 관심이 서비스 운영에 큰 도움이 됩니다! 감사합니다. :)
